@@ -1,0 +1,133 @@
+[
+    {
+        "ean": "8717418071383",
+        "title": "Rasta Rockett",
+        "genre": "Comédie",
+        "directors": [
+            {
+                "last_name": "Turteltaub",
+                "first_name": "Jon",
+                "birth_year": 1963
+            }
+        ]
+    },
+    {
+        "ean": "3333299393619",
+        "title": "Intouchables",
+        "genre": "Comédie",
+        "directors": [
+            {
+                "last_name": "Toledano",
+                "first_name": "Olivier",
+                "birth_year": 1971
+            },
+            {
+                "last_name": "Nakache",
+                "first_name": "Éric",
+                "birth_year": 1973
+            }
+        ]
+    },
+    {
+        "ean": "3700259833014",
+        "title": "Le Dîner de cons",
+        "genre": "Comédie",
+        "directors": [
+            {
+                "last_name": "Veber",
+                "first_name": "Francis",
+                "birth_year": 1937
+            }
+        ]
+    },
+    {
+        "ean": "3333297937419",
+        "title": "Les Bronzés",
+        "genre": "Comédie",
+        "directors": [
+            {
+                "last_name": "Leconte",
+                "first_name": "Patrice",
+                "birth_year": 1947
+            }
+        ]
+    },
+    {
+        "ean": "3384442070080",
+        "title": "Bienvenue chez les Ch'tis",
+        "genre": "Comédie",
+        "directors": [
+            {
+                "last_name": "Boon",
+                "first_name": "Dany",
+                "birth_year": 1966
+            }
+        ]
+    },
+    {
+        "ean": "5050582964629",
+        "title": "Very Bad Trip",
+        "genre": "Comédie",
+        "directors": [
+            {
+                "last_name": "Phillips",
+                "first_name": "Todd",
+                "birth_year": 1970
+            }
+        ]
+    },
+    {
+        "ean": "3333297205785",
+        "title": "Les Visiteurs",
+        "genre": "Comédie",
+        "directors": [
+            {
+                "last_name": "Poiré",
+                "first_name": "Jean-Marie",
+                "birth_year": 1945
+            }
+        ]
+    },
+    {
+        "ean": "5051889501254",
+        "title": "La Grande Vadrouille",
+        "genre": "Comédie",
+        "directors": [
+            {
+                "last_name": "Oury",
+                "first_name": "Gérard",
+                "birth_year": 1919,
+                "death_year": 2006
+            }
+        ]
+    },
+    {
+        "ean": "3333299292417",
+        "title": "Les Tuche",
+        "genre": "Comédie",
+        "directors": [
+            {
+                "last_name": "Baroux",
+                "first_name": "Olivier",
+                "birth_year": 1964
+            }
+        ]
+    },
+    {
+        "ean": "5051889602402",
+        "title": "Crazy, Stupid, Love",
+        "genre": "Comédie",
+        "directors": [
+            {
+                "last_name": "Ficarra",
+                "first_name": "Glenn",
+                "birth_year": 1969
+            },
+            {
+                "last_name": "Requa",
+                "first_name": "John",
+                "birth_year": 1967
+            }
+        ]
+    }
+]

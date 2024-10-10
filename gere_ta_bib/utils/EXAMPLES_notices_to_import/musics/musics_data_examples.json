@@ -1,0 +1,139 @@
+[
+    {
+        "ean": "0600753547536",
+        "title": "Legend",
+        "genre": "Reggae",
+        "musicians": [
+            {
+                "last_name": "Marley",
+                "first_name": "Bob",
+                "birth_year": 1945,
+                "death_year": 1981
+            }
+        ]
+    },
+    {
+        "ean": "0075678251589",
+        "title": "Exodus",
+        "genre": "Reggae",
+        "musicians": [
+            {
+                "last_name": "Marley",
+                "first_name": "Bob",
+                "birth_year": 1945,
+                "death_year": 1981
+            }
+        ]
+    },
+    {
+        "ean": "0602527903840",
+        "title": "Catch a Fire",
+        "genre": "Reggae",
+        "musicians": [
+            {
+                "last_name": "Marley",
+                "first_name": "Bob",
+                "birth_year": 1945,
+                "death_year": 1981
+            },
+            {
+                "last_name": "Wailer",
+                "first_name": "Bunny",
+                "birth_year": 1947
+            },
+            {
+                "last_name": "Tosh",
+                "first_name": "Peter",
+                "birth_year": 1944,
+                "death_year": 1987
+            }
+        ]
+    },
+    {
+        "ean": "602547551705",
+        "title": "The Harder They Come",
+        "genre": "Reggae",
+        "musicians": [
+            {
+                "last_name": "Cliff",
+                "first_name": "Jimmy",
+                "birth_year": 1948
+            }
+        ]
+    },
+    {
+        "ean": "0600753466463",
+        "title": "Natty Dread",
+        "genre": "Reggae",
+        "musicians": [
+            {
+                "last_name": "Marley",
+                "first_name": "Bob",
+                "birth_year": 1945,
+                "death_year": 1981
+            }
+        ]
+    },
+    {
+        "ean": "5034504941971",
+        "title": "Burnin'",
+        "genre": "Reggae",
+        "musicians": [
+            {
+                "last_name": "Wailer",
+                "first_name": "Bunny",
+                "birth_year": 1947
+            }
+        ]
+    },
+    {
+        "ean": "0600753401600",
+        "title": "Survival",
+        "genre": "Reggae",
+        "musicians": [
+            {
+                "last_name": "Marley",
+                "first_name": "Bob",
+                "birth_year": 1945,
+                "death_year": 1981
+            }
+        ]
+    },
+    {
+        "ean": "0602517381388",
+        "title": "Uprising",
+        "genre": "Reggae",
+        "musicians": [
+            {
+                "last_name": "Marley",
+                "first_name": "Bob",
+                "birth_year": 1945,
+                "death_year": 1981
+            }
+        ]
+    },
+    {
+        "ean": "5034504941872",
+        "title": "Sizzla",
+        "genre": "Reggae",
+        "musicians": [
+            {
+                "last_name": "Kalonji",
+                "first_name": "Sizzla",
+                "birth_year": 1976
+            }
+        ]
+    },
+    {
+        "ean": "0659457288820",
+        "title": "Black Uhuru",
+        "genre": "Reggae",
+        "musicians": [
+            {
+                "last_name": "McDonald",
+                "first_name": "Duckie",
+                "birth_year": 1951
+            }
+        ]
+    }
+]

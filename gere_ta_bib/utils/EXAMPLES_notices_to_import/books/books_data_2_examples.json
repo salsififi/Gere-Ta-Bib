@@ -1,0 +1,36 @@
+[
+    {
+        "publisher": "Gallimard",
+        "ean": "9782070649822",
+        "title": "Rentrée Musclée",
+        "series_name": "Akissi",
+        "series_volume": 4,
+        "genre": "BD",
+        "authors": [
+            {
+                "last_name": "Abouet",
+                 "first_name": "Marguerite",
+                 "birth_year": 1971
+            },
+            {
+                "last_name": "Sapin",
+                "first_name": "Mathieu",
+                "birth_year": 1974
+            }
+        ]
+    },
+    {
+        "publisher": "Pocket",
+        "ean": "9782266296144",
+        "title": "Les Misérables",
+        "genre": "Roman",
+        "authors": [
+            {
+                "last_name": "Hugo",
+                "first_name": "Victor",
+                "birth_year": 1802,
+                "death_year": 1885
+            }
+        ]
+    }
+]
